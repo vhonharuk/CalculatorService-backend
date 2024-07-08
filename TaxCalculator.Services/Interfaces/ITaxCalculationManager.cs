@@ -1,6 +1,4 @@
-﻿using TaxCalculator.Services.Models;
-
-namespace TaxCalculator.Services.Interfaces
+﻿namespace TaxCalculator.Services.Interfaces
 {
     public interface ITaxCalculationManager
     {

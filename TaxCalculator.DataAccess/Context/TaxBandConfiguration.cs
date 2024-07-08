@@ -35,6 +35,7 @@ namespace TaxCalculator.DataAccess.Context
                 {
                     Id = Guid.Parse("5b5e983b-7981-49c4-a19c-18f162d6fd61"),
                     LowerLimit = 20000,
+                    UpperLimit = 40000,
                     Rate = 40,
                 });
         }
