@@ -1,6 +1,6 @@
 @CalculatorService_HostAddress = http://localhost:5241
 
-GET {{CalculatorService_HostAddress}}/weatherforecast/
+GET {{CalculatorService_HostAddress}}/api/GetTaxCalculation/
 Accept: application/json
 
 ###
